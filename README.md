@@ -1,5 +1,9 @@
 # Gestion de projet 
 
 
+- Gestion des tâches
+- Gestion des dépôts
+- Amélioration de processus de développement
 
-## Tâche en cours 
+
+## Travail en cours
