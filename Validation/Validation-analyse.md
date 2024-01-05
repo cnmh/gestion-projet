@@ -1,21 +1,13 @@
-# Validation App
+# Validation Analyse
 
 
 ## Livrable 
-- Plan de site
-- Liste des fichiers à modifier
-- Diagramme de séquence dynamique
-- Code source back-end
-- **Unit test**
-- Code source front-end
 
-## Nombre des tickets
+- Cas d'utilisation
+- Liste des scénario
+- Diagramme de séquence 
+- 
 
-Exemple de packages : type d'handicap
-
-- issue 1 : back-end-type-handicap
-- issue 2 : Unit test-type-handicap
-- issue 3 : front-end-type-handicap
 
 ## Présentation
     - Besoin
