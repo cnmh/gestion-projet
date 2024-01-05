@@ -5,8 +5,7 @@
 
 - Diagramme de classe
   - chemin
-- Diagramme de séquence dynamique
-  - chemin
+
 - Readme.md
   - Contenue
     - Travaile à faire
