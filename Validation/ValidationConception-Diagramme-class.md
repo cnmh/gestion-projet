@@ -20,8 +20,6 @@
 Nom des ticket
 
 - diagramme-de-classes
-- diagramme-de-séquence-nom-package : diagramme-de-séquence-entretien-social
-- maquette-nom-package : maquette-autorisation
 
 
 ## Présentation
