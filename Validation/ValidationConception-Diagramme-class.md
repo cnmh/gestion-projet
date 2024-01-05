@@ -28,8 +28,8 @@ Nom des ticket
     - Besoin
       - Carte d'empathie
     - Analyse
-      - Diagramme de classe d'utilisation global
-      - Diagramme de classe d'utilisation de sprint
+      - Diagramme de cas d'utilisation global
+      - Diagramme de cas d'utilisation de sprint
       - Liste des scénarios
       - Diagramme de séquence de chaque scénario
     - Solution
