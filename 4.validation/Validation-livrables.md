@@ -1,6 +1,47 @@
-# Validation des livrables
+# Validation d'une tâche 
 
-Les critères de validation pour valider une tâches de Product Backlog.
+## Les phases de développement
+
+
+
+
+
+## Liste des scrum masters 
+
+- Conception générique : Yasmine Daifane
+- Prototype : Jalil Betroji
+- Analyse :  Yasmine Daifane 
+- Conception: Yasmine Daifane 
+- Maquettage : Jalil betroji
+- App : Adnane lharrak, Soufiane boukhar
+
+
+## Réalisation d'une tâche 
+
+Étape de réalisation d'une tâche 
+
+1. Création de l'issue dans sa phase de développement 
+2. Insertion de la tâche dans TeamPlanning 
+   - par Scrum master
+3. Création d'un fichier readme.md de description 
+    - Le fichier doit être déposer dans le dépôt spécifier dans TeamPlaning
+    - Travail à faire 
+      - Liste des livrables 
+    - Critère de validation
+    - Validateur 
+    - Liens vers les livrables
+
+
+
+## Critère de validation d'une tâche  
+
+- Création d'un document Readme.md
+    - Travail à faire 
+      - Liste des livrables 
+    - Critère de validation
+    - Validateur 
+    - Liens vers les livrables
+
 
 ## Processus de développement
 
