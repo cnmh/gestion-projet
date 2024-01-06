@@ -1,4 +1,12 @@
-# Validation des livrables
+# Validation prototype
+
+## Livrable
+  - Readme
+    - Introduction
+    - Instruction d'installation
+    - Instruction de démonstration
+    - Instruction de maintenance
+
 
 ## Outils de validation
 
