@@ -1,21 +1,50 @@
 # Validation des livrables
 
-## Outils de validation
+Les critères de validation pour valider une tâches de Product Backlog.
 
-### Live-validation
+## Processus de développement
 
-Le live validation est la validation avec le formateur en live avec la présence de tous les membres de l'équipe
+<!-- g layout : t 6-9 6-9 p-70  -->
+
+Processus 2TUP
+
+- Itérative 
+- Incrémental
+
+<!-- new zone -->
+
+1. Besoin
+2. Analyse
+3. Branche technique
+4. Conception
+5. Codage
+6. Test
+7. Déploiement
+
+## Product backlog
+
+## Product backlog Besoin
+
+## Product backlog Analyse
+
+## Product backlog Branche technique
+
+## Product backlog Conception
+
+## Product backlog Codage
+
+## Product backlog Test
+
+## Product backlog Déploiement
 
 
-## Les livrables 
+## Livrables 
 
 - Besoin
   - Carte d'empathies
   - Idéation
   - Définition de problème
 - Branche technique
-  - Présentation
-  - Rapport
   - Analyse technique
   - Conception générique
     - Diagramme de cas d'utilisation
@@ -76,7 +105,18 @@ Le live validation est la validation avec le formateur en live avec la présence
 - unit-test
 - test
 - déploiement
+## Deux Types de livrable 
 
+Il existe deux types de livrable 
+
+- Livrable avec code source 
+- Livrable sans code source
+
+## Définitions
+
+### Live-validation
+
+Le live validation est la validation avec le formateur en live avec la présence de tous les membres de l'équipe
 ## Validation Besoin
 
   - Carte d'empathies
