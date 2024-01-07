@@ -1,12 +1,21 @@
 # Processus de développement 
 
 La base de notre processus de développement est la méthode 2TUP
+
 ![2TUP](./images/2tup.png)
 
 
 ## Branche fonctionnelle
 
 ### Analyse 
+
+## Branche Technique
+
+### Analyse technique
+
+### Conception générique
+
+### Prototype 
 
 ## Conception
 
