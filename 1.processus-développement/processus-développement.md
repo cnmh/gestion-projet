@@ -1,6 +1,17 @@
-# Processus de développement 
+# Processus de développement : 2TUP
+
+<!-- new slide -->
+
+<!-- g layout : t 12-9 p-70  -->
+
+<!-- layout : Titre -->
+
+<!-- note -->
 
 La base de notre processus de développement est la méthode 2TUP
+
+<!-- end note -->
+
 
 ![2TUP](./images/2tup.png)
 

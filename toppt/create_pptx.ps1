@@ -13,12 +13,18 @@ function confirm_to_continue($message) {
 
 function run_toppt($File_Full_Name) {
     # Création présentation avec confirmation
-    $title    = "Création présentation pour lab $File_Full_Name "
+    $title    = "Création présentation pour $File_Full_Name "
     $question = "Are you sure you want to proceed?"
     $choices  = '&Yes', '&No'
     $decision = $Host.UI.PromptForChoice($title, $question, $choices, 1)
     if ($decision -eq 0) {
-        toppt $File_Full_Name -t ..\toppt\template.potx
+        $template_file = "..\toppt\template.potx"
+        # if file existe 
+        if (-not(Test-Path $template_file )){
+            $template = "..\gestion-projet\toppt\template.potx"
+        }
+
+        toppt $File_Full_Name -t $template
     } 
 }
 
