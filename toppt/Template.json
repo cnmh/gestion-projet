@@ -1,0 +1,213 @@
+{
+  "Slides": [
+    {   
+      "Layout": "Titre document",
+      "Order": 1,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "SousTitre",
+          "ContentTypes": [
+            "Text"
+          ]
+        }
+      ]
+
+    },
+    {
+      "Layout": "Titre session",
+      "Order": 2,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "SousTitre",
+          "ContentTypes": [
+            "Text"
+          ]
+        }
+      ]
+    }, 
+    {
+      "Layout": "Titre",
+      "Order": 3,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        }
+      ]
+    },
+    {
+      "Layout": "Titre contenu",
+      "Order": 4,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "Contenu",
+          "ContentTypes": [
+            "Text", "Image"
+          ]
+        }
+      ]
+    },
+    {
+      "Layout": "Deux colonnes",
+      "Order": 5,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "Colone1",
+          "ContentTypes": [
+            "Text",
+            "Image"
+          ]
+        },
+        {
+          "Name": "Colone2",
+          "ContentTypes": [
+            "Text",
+            "Image"
+          ]
+        }
+      ]
+    },
+    {
+      "Layout": "Logos et définitions",
+      "Order": 6,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "Image1",
+          "ContentTypes": [
+            "Image"
+          ]
+        },
+        {
+          "Name": "Text1",
+          "ContentTypes": [
+            "Text"
+          ]
+        },
+        {
+          "Name": "Image2",
+          "ContentTypes": [
+            "Image"
+          ]
+        },
+        {
+          "Name": "Text2",
+          "ContentTypes": [
+            "Text"
+          ]
+        }
+      ]
+    },
+    {
+      "Layout": "Code html image",
+      "Order": 7,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "Code",
+          "ContentTypes": [
+            "Text"
+          ]
+        },
+        {
+          "Name": "Image",
+          "ContentTypes": [
+            "Image"
+          ]
+        }
+      ]
+    },
+    {
+      "Layout": "Console",
+      "Order": 8,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "Code",
+          "ContentTypes": [
+            "Text"
+          ]
+        }
+      ]
+    },
+    {
+      "Layout": "Comparaison",
+      "Order": 9,
+      "SlideZones": [
+        {
+          "Name": "Titre",
+          "ContentTypes": [
+            "Title"
+          ]
+        },
+        {
+          "Name": "TitreZone1",
+          "ContentTypes": [
+            "Text"
+          ]
+        },
+        {
+          "Name": "Zone1",
+          "ContentTypes": [
+            "Text",
+            "Image"
+          ]
+        },
+        {
+          "Name": "TitreZone2",
+          "ContentTypes": [
+            "Text"
+          ]
+        },
+        {
+          "Name": "Zone2",
+          "ContentTypes": [
+            "Text",
+            "Image"
+          ]
+        }
+      ]
+    }
+  ]
+}
