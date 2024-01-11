@@ -5,5 +5,6 @@ gh label delete 'help wanted' --yes
 gh label delete invalid --yes
 gh label delete question --yes
 gh label delete wontfix --yes
+gh label delete enhancement --yes
 
 gh label clone https://github.com/labs-web/lab-markdown.git
