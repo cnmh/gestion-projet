@@ -75,3 +75,7 @@ Lien de présentation google slide avec le plan suivant :
 
 - le lab doit être réalisé par chaque apprenant
 - les apprenants qui ont dépasser le lab ou il ont oublier quelques notion de base peuvent réaliser le rapport et la fixation des bug
+
+
+ ## Livrables 
+[Gestion de projet](https://docs.google.com/presentation/d/1UQOjkdrmTuuxKG_3IL5RAj4B9wBsleDd/edit?usp=sharing&ouid=104079302148884844878&rtpof=true&sd=true)
