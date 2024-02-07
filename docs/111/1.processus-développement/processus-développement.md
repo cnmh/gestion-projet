@@ -1,4 +1,11 @@
-# Processus de développement : 2TUP
+---
+layout: default
+order: 5
+---
+
+
+
+## Processus de développement : 2TUP
 
 <!-- new slide -->
 
@@ -12,34 +19,33 @@ La base de notre processus de développement est la méthode 2TUP
 
 <!-- end note -->
 
+![2TUP]({{site.baseurl}}/111/1.processus-développement/images/2tup.png)
 
-![2TUP](./images/2tup.png)
+-  Branche fonctionnelle
 
+- Analyse 
 
-## Branche fonctionnelle
+- Branche Technique
 
-### Analyse 
+-  Analyse technique
 
-## Branche Technique
+- Conception générique
 
-### Analyse technique
+- Prototype 
 
-### Conception générique
+- Conception
 
-### Prototype 
+- Codage
 
-## Conception
+- Test
 
-## Codage
+- Déploiement
 
-## Test
+- Presentation
 
-## Déploiement
+- Rapport
 
-## Presentation
-
-## Rapport
-
-## Références
+- Références
 
 - [Two Tracks Unified Process](https://fr.wikipedia.org/wiki/Two_Tracks_Unified_Process)
+  
