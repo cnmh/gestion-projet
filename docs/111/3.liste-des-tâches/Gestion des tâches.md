@@ -1,14 +1,20 @@
-# Gestion des tâches 
+---
+layout: default
+order: 11
+---
 
-## Problématique de gestion des tâches 
+
+## Gestion des tâches 
+
+### Problématique de gestion des tâches 
 - non adéquation des logiciel de gestion de projet
 
-## Outils 
+### Outils 
 - Utilisation d'un document google sheet
 - Utilisation de gestion des projet de github
 
 
-## Gestion des projet avec github
+### Gestion des projet avec github
 
 ### Problème 
 les membres peuvre modifier les tâches des autres membres
@@ -20,7 +26,7 @@ les membres peuvre modifier les tâches des autres membres
   - risque : affichage d'un tableau de board global
   - garder le fichier google sheet pour la gestion individuel des tâches
 
-## Organisation des projets sur github 
+### Organisation des projets sur github 
 
 - cnmh-planing
   - fix-sprint-1-et-2-planning
@@ -34,7 +40,7 @@ les membres peuvre modifier les tâches des autres membres
   - Test-planning
   - Déploiement-planning
 
-## équipes 
+### équipes 
 
 - Starter
 - Autorisation

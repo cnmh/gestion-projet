@@ -1,7 +1,12 @@
-# Validation Conception
+---
+layout: default
+order: 17
+---
+
+## Validation Conception
 
 
-## Livrable 
+### Livrable 
 
 - Diagramme de classe
   - chemin
@@ -13,7 +18,7 @@
   - Contenue
     - Nombre de validation :  1
 
-## Tickets
+### Tickets
 
 Nom des ticket
 
@@ -22,7 +27,7 @@ Nom des ticket
 - maquette-nom-package : maquette-autorisation
 
 
-## Présentation
+### Présentation
     - Besoin
       - Carte d'empathie
     - Analyse
@@ -32,5 +37,5 @@ Nom des ticket
       - Diagramme de séquence de chaque scénario
     - Solution
 
-## Tâche de validateur
-  - 
+### Tâche de validateur
+  

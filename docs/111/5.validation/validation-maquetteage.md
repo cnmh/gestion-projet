@@ -1,13 +1,19 @@
-# Validation des livrables
+---
+layout: default
+order: 18
+---
 
-## Outils de validation
+
+## Validation des livrables
+
+### Outils de validation
 
 ### Live-validation
 
 Le live validation est la validation avec le formateur en live avec la présence de tous les membres de l'équipe
 
 
-## Les livrables 
+### Les livrables 
 
 - Besoin
   - Carte d'empathies
@@ -65,7 +71,7 @@ Le live validation est la validation avec le formateur en live avec la présence
 - Presentation
 - Rapport
 
-# Types de livrable
+### Types de livrable
 
 - Besoin
 - Analyse
@@ -77,7 +83,7 @@ Le live validation est la validation avec le formateur en live avec la présence
 - test
 - déploiement
 
-## Validation Besoin
+### Validation Besoin
 
   - Carte d'empathies
     - Rédaction en markdown : Gestion de version avec github
@@ -93,7 +99,7 @@ Le live validation est la validation avec le formateur en live avec la présence
   - Définition de problème
     - Live-validation
 
-## Validation branche technique
+### Validation branche technique
 
   - Analyse technique
     - Live validation
@@ -141,7 +147,7 @@ Le live validation est la validation avec le formateur en live avec la présence
      - Conception
      - Réalisation
 
-## Validation de prototype
+### Validation de prototype
 
 Tous le processus de validation d'une application
 
@@ -158,19 +164,19 @@ Tous le processus de validation d'une application
   - Instruction de démonstration
   - Instruction de maintenance
 
-## Validation Analyse
+### Validation Analyse
 
 - Livrables 
   - Diagramme de cas d'utilisation
   - Scénarios
 
-# Validation Conception
+### Validation Conception
 
 - Livrables 
   - Maquettes
   - Diagramme de classe statique
 
-# Validation codage
+### Validation codage
 
 Livrable : 
   - Plan de site
@@ -201,10 +207,10 @@ Livrable :
     - Test par le chef de projet
 
 
-# Validation test-browser
-  - 
+### Validation test-browser
+  
 
-# Validation test
+### Validation test
 
 
-# Validation déploiement
+### Validation déploiement

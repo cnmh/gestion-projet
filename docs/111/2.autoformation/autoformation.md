@@ -1,4 +1,10 @@
-# Autoformation et lab
+---
+layout: default
+order: 6
+---
+
+
+## Autoformation et lab
 
 <!-- new slide -->
 
@@ -6,7 +12,7 @@
 
 L'autoformation est assurer par la réalisation d'un ensemble des travaux pratiques nommés labs.
 
-## Conversion d'un exposé en lab
+### Conversion d'un exposé en lab
 
 <!-- g layout : t 12-9 p-70  -->
 
@@ -22,7 +28,7 @@ L'autoformation est assurer par la réalisation d'un ensemble des travaux pratiq
 4. lab : après l'autoformation, nous réalisons un exemple complet sur le sujet. Cette exemple sera utiliser comme une partie de notre prototype.
 5. lab-standard : après la réalisation du lab basique, le formateur donne sa correction dans un autre lab nommé lab-standard.
 
-## Validation d'un lab
+### Validation d'un lab
 
 <!-- g layout : t 8-8 p-70  -->
 
@@ -69,7 +75,7 @@ Lien de présentation google slide avec le plan suivant :
  - Réalisation
  - Référence
   
-## Critère de validation
+### Critère de validation
 
 <!-- g layout : t 12-8 p-70  -->
 
