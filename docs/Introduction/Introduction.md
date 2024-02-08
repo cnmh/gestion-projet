@@ -4,7 +4,7 @@ title: /index
 order: 1
 ---
 
-# lab Git
+# Gestion projet
 <!-- new slide -->
 
 ## Introduction 
