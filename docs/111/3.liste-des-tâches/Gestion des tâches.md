@@ -1,7 +1,3 @@
----
-layout: default
-order: 11
----
 
 
 ## Gestion des tâches 

@@ -1,7 +1,4 @@
----
-layout: default
-order: 17
----
+
 
 ## Validation Conception
 

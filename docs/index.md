@@ -1,6 +1,6 @@
 ---
 layout: default
-slug: /index
+title: /index
 order: 3
 ---
 

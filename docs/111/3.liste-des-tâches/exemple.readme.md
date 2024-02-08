@@ -1,7 +1,4 @@
----
-layout: default
-order: 10
----
+
 
 
 ## Nom de la tâche
