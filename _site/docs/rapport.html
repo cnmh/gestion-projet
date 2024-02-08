@@ -1,0 +1,88 @@
+
+<h1 id="gestion-projet">Gestion projet</h1>
+<!-- new slide -->
+
+<h2 id="introduction">Introduction</h2>
+
+<!-- new slide -->
+
+<table>
+  <tbody>
+    <tr>
+      <td>{% assign pages = site.pages</td>
+      <td>sort: “order” %}</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>{% for page in pages %}
+ {% if page.title != “” %}
+  {% if page.url != “/feed.xml” and  page.url != “/” and page.url != “/rapport.html” and page.url != “/assets/css/style.css” and page.url != “/presentation.html”   %}</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>{{ page.content</td>
+      <td>markdownify }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>{% endif %}
+ {% endif %}
+{% endfor %}</p>
+
+<h2 id="backlog">Backlog</h2>
+
+<!-- new slide -->
+
+<h3 id="structure-des-dossiers">Structure des dossiers</h3>
+
+<p><img src="/backlog/images/structure.png" alt="struc" /></p>
+
+<!-- note -->
+<ul>
+  <li>docs
+    <ul>
+      <li>Index.md</li>
+      <li>Introduction
+        <ul>
+          <li>images</li>
+          <li>Introduction.md</li>
+        </ul>
+      </li>
+      <li>Conclusion
+        <ul>
+          <li>Images</li>
+          <li>Conclusion.md</li>
+        </ul>
+      </li>
+      <li>Backlog
+        <ul>
+          <li>Backlog.md</li>
+        </ul>
+      </li>
+      <li>Autoformation
+        <ul>
+          <li>Compte-rendu.autoformation.md</li>
+          <li>images</li>
+        </ul>
+      </li>
+      <li>rapport.md</li>
+      <li>présentation.html</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- new slide -->
+
+<h2 id="livrable">livrable</h2>
+
+<h3 id="rapport">Rapport</h3>
+<p><a href="https://labs-web.github.io/lab-git/rapport.html">Rapport.html</a></p>
+
+<h3 id="présentation">Présentation</h3>
+<p><a href="">Présentation</a></p>
+
+<h2 id="conclusion">Conclusion</h2>
+
