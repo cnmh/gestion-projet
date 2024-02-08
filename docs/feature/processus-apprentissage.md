@@ -1,8 +1,4 @@
----
-layout: default
-title: /index
-order: 4
----
+
 ## Processus apprentissage
 
 1. Réalisation d'un élément de backlog

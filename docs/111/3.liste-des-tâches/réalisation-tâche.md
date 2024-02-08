@@ -1,7 +1,4 @@
----
-layout: default
-order: 12
----
+
 
 
 ## Réalisation des tâches de product backlog

@@ -1,8 +1,3 @@
----
-layout: default
-order: 6
----
-
 
 ## Autoformation et lab
 

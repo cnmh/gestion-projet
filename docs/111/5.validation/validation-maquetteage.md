@@ -1,7 +1,3 @@
----
-layout: default
-order: 18
----
 
 
 ## Validation des livrables
