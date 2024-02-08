@@ -5,10 +5,10 @@ order: 14
 
 
 
-# Validation App
+## Validation App
 
 
-## Livrable 
+### Livrable 
 - Plan de site
 - Liste des fichiers à modifier
 - Diagramme de séquence dynamique
@@ -16,7 +16,7 @@ order: 14
 - **Unit test**
 - Code source front-end
 
-## Nombre des tickets
+### Nombre des tickets
 
 Exemple de packages : type d'handicap
 
@@ -24,7 +24,7 @@ Exemple de packages : type d'handicap
 - issue 2 : Unit test-type-handicap
 - issue 3 : front-end-type-handicap
 
-## Présentation
+### Présentation
     - Besoin
       - Carte d'empathie
     - Analyse
@@ -44,5 +44,5 @@ Exemple de packages : type d'handicap
     - Validation de pull request par code-review
     - Test par le chef de projet
 
-## Tâche de validateur
+### Tâche de validateur
   - Exécution des automatiques
