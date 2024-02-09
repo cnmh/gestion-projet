@@ -1,7 +1,10 @@
-# Validation Analyse
 
 
-## Livrable 
+
+## Validation Analyse
+
+
+### Livrable 
 
 - Cas d'utilisation
 - Liste des scénario
@@ -9,7 +12,7 @@
 - 
 
 
-## Présentation
+### Présentation
     - Besoin
       - Carte d'empathie
     - Analyse
@@ -29,5 +32,5 @@
     - Validation de pull request par code-review
     - Test par le chef de projet
 
-## Tâche de validateur
+### Tâche de validateur
   - Exécution des automatiques
