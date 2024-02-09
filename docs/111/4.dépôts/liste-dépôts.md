@@ -1,8 +1,12 @@
-# Liste des dépôts
+
+
+
+
+## Liste des dépôts
 
 Les dépôts sont construits par phase de développement
 
-## Les dépôts 
+### Les dépôts 
 
 0. organisation-travail
 1. besoin

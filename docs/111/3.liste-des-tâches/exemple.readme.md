@@ -1,17 +1,20 @@
-# Nom de la tâche
-
-## Travail à faire 
 
 
-## Liste des livrables 
+
+## Nom de la tâche
+
+### Travail à faire 
 
 
-## Liste des PullRequests
+### Liste des livrables 
+
+
+### Liste des PullRequests
 
 - Création de fichier readme.md
 -  close #1
 
-## Critères de validation
+#### Critères de validation
 - Création d'un dossier qui porte le nom de la tâche
 - Création d'un document Readme.md dans ce  dossier avec le contenue suivant:
     - Titre = Nom de la tâche
@@ -21,6 +24,6 @@
     - Validateur 
     - Liens vers les livrables
 
-## Validateur 
+### Validateur 
 - Analyse :  
-## Liens vers les livrables
+### Liens vers les livrables
